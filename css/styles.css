@@ -5,6 +5,10 @@
   box-sizing: border-box;
   /*border: 1px solid red;*/
 }
+#justin-tooley-cover{
+  background-image: url("http://i.imgur.com/9fiWgVZ.jpg");
+}
+#justin-tooley-card{"http://i.imgur.com/ZwIbMsS.jpg"};
 
 html {
   font-size: 15px;
